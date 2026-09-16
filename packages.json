@@ -1,0 +1,12 @@
+[
+  {
+    "package": "gfplot",
+    "url": "https://github.com/gflab/gfplot",
+    "branch": "master"
+  },
+  {
+    "package": "clinstats",
+    "url": "https://github.com/gflab/clinstats",
+    "branch": "main"
+  }
+]
